@@ -1,0 +1,22 @@
+{
+  "name": "flash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "er.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSarro84/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSarro84/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/JSarro84/Flashcard-Generator#readme",
+  "dependencies": {
+    "require.js": "^1.0.0"
+  }
+}
